@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Abhijeetdesai18
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/abhijeet-desai-b6b566192
 
 <!---
 Abhijeetdesai18/Abhijeetdesai18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
